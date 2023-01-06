@@ -7,4 +7,4 @@ edition = "2018"
 
 [dependencies]
 axumlike01 = { path = "../.." }
-tokio = { version = "1.0", features = ["full"] }
+tokio = { version = "1.16", features = ["full"] }
